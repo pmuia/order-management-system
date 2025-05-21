@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <EFCoreVersion>8.0.0</EFCoreVersion>
+    <MoqVersion>4.20.70</MoqVersion>
+    <XunitVersion>2.6.6</XunitVersion>
+    <XunitRunnerVersion>2.5.6</XunitRunnerVersion>
+  </PropertyGroup>
+</Project> 
